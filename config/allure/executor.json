@@ -1,0 +1,6 @@
+{
+  "name": "Local pytest run",
+  "type": "pytest",
+  "buildName": "automation-exercise-test",
+  "reportName": "Automation Exercise Report"
+}
