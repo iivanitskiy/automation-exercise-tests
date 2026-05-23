@@ -17,8 +17,8 @@
 Автоматизация тестирования веб-приложения [Automation Exercise](https://automationexercise.com).  
 
 📋 Чек-листы тестирования:\
-👉 UI - https://github.com/iivanitskiy/automation-exercise/blob/main/docs/UI_CHECKLIST.md \
-👉 API - https://github.com/iivanitskiy/automation-exercise/blob/main/docs/API_CHECKLIST.md
+👉 UI - [https://github.com/iivanitskiy/automation-exercise/blob/main/docs/UI_CHECKLIST.md](https://github.com/iivanitskiy/automation-exercise-tests/blob/main/docs/UI_CHECKLIST.md) \
+👉 API - [https://github.com/iivanitskiy/automation-exercise/blob/main/docs/API_CHECKLIST.md](https://github.com/iivanitskiy/automation-exercise-tests/blob/main/docs/API_CHECKLIST.md)
 
 ------------------------------------------------------------------------
 
